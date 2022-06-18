@@ -1,6 +1,3 @@
-<!-- # CH-Song-Updater
-Project dedicated to Python studies. Clone Hero songs metadata and video updater. -->
-
 <p align="center">
     <a href="https://github.com/heitor2111/CH-Song-Updater">
         <img
@@ -81,5 +78,3 @@ Este script **intenta** actualizar los metadatos, la carátula y el video musica
 ## Licencia
 
 El script CH Song Updater es un software de código abierto con licencia MIT.
-
-----------
